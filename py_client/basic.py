@@ -24,3 +24,8 @@ print(get_response.status_code)
 # HTTP Request -> HTML
 # REST API HTTP Request -> JSON (Javascript object notation)
 # print(get_response.json()) # Format the JSON into it's form 
+
+
+
+###TESTING COMMITS####
+### nOW I'M TESTING COMMITING ISSUE
